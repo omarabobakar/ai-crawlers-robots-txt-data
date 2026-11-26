@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this data, please cite it as below and link to the study page."
+type: dataset
+title: "AI crawler access in robots.txt: open data from ROC SEO"
+abstract: "Which search and AI crawlers websites allow or block in robots.txt: the Tranco top 10,000 domains (28 October 2026) and 30 sites covering GTA 6 (18 November 2026)."
+authors:
+  - name: "ROC SEO"
+    website: "https://getrocseo.com/"
+  - family-names: "Abobakar"
+    given-names: "Omar"
+    website: "https://omarabobakar.com/"
+date-released: 2026-11-25
+version: "2026-11"
+license: CC-BY-4.0
+url: "https://getrocseo.com/research/"
+keywords:
+  - robots.txt
+  - AI crawlers
+  - GPTBot
+  - web crawling
+  - llms.txt
+  - SEO

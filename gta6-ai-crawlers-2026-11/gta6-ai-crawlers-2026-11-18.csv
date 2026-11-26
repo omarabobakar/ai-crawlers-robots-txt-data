@@ -1,0 +1,31 @@
+site,type,robots_txt_status,readable,note,Googlebot_blocked,GPTBot_blocked,OAI-SearchBot_blocked,ChatGPT-User_blocked,ClaudeBot_blocked,Claude-SearchBot_blocked,Claude-User_blocked,PerplexityBot_blocked,Perplexity-User_blocked,Google-Extended_blocked,CCBot_blocked,Applebot-Extended_blocked,meta-externalagent_blocked,Bytespider_blocked,Amazonbot_blocked,Bingbot_blocked
+rockstargames.com,Publisher,200,yes,,no,yes,no,no,yes,no,no,no,no,no,yes,yes,yes,no,no,no
+blog.playstation.com,Platform,200,yes,,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+news.xbox.com,Platform,404,yes,no robots.txt (everything allowed),no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+ign.com,Games media,200,yes,,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+gamespot.com,Games media,200,yes,,no,yes,no,no,yes,no,no,no,no,yes,yes,yes,yes,yes,yes,no
+polygon.com,Games media,0,no,no answer from our network,,,,,,,,,,,,,,,,
+kotaku.com,Games media,200,yes,,no,no,no,no,no,no,no,no,no,no,yes,no,yes,yes,no,no
+pcgamer.com,Games media,200,yes,,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,no
+gamesradar.com,Games media,200,yes,,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,no
+eurogamer.net,Games media,200,yes,,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+rockpapershotgun.com,Games media,200,yes,,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+vg247.com,Games media,200,yes,,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+videogameschronicle.com,Games media,200,yes,,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+gameinformer.com,Games media,200,yes,,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+destructoid.com,Games media,200,yes,,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+pushsquare.com,Games media,403,no,bot protection page (403),,,,,,,,,,,,,,,,
+purexbox.com,Games media,403,no,bot protection page (403),,,,,,,,,,,,,,,,
+pcgamesn.com,Games media,200,yes,,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,no
+gamerant.com,Games media,0,no,no answer from our network,,,,,,,,,,,,,,,,
+screenrant.com,Entertainment,0,no,no answer from our network,,,,,,,,,,,,,,,,
+thegamer.com,Games media,0,no,no answer from our network,,,,,,,,,,,,,,,,
+dexerto.com,Games media,200,yes,,no,yes,no,yes,yes,no,no,no,no,no,yes,yes,no,yes,yes,no
+theverge.com,Tech news,200,yes,,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no
+techradar.com,Tech news,200,yes,,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,no
+tomsguide.com,Tech news,200,yes,,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,no
+windowscentral.com,Tech news,200,yes,,no,no,no,no,no,no,no,no,no,no,no,yes,yes,yes,yes,no
+nme.com,Entertainment,200,yes,,no,yes,no,no,yes,no,no,no,no,no,yes,yes,yes,yes,yes,no
+forbes.com,Business news,200,yes,,no,yes,no,no,yes,no,no,yes,no,no,yes,yes,yes,yes,yes,no
+gtaboom.com,Fan site,200,yes,,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+gtaforums.com,Fan site,403,no,bot protection page (403),,,,,,,,,,,,,,,,
